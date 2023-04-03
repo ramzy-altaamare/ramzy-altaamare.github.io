@@ -1,0 +1,10 @@
+lab1- questions:
+
+1- 30 hops max.
+2- 7, 12, 23, 28 took the longest in route.
+3- hostinger is the name of the main server.
+4- Registrar: Isimtescil Bilisim A.S.
+5- 10 mx1.hostinger.web.tr.
+6- Netherlends
+
+ 
