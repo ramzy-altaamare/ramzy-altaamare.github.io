@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-subtitle: Resources to work with Markdown
+subtitle: 
 categories: portfolio
 tags: [portfolio, intro, first]
 ---
