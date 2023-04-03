@@ -6,8 +6,6 @@ categories: portfolio
 tags: [portfolio, intro, first]
 ---
 
-## Introduction
-
 The Internet of Things (IoT) is a network of interconnected physical devices, automobiles, appliances, and other items equipped with sensors, software, and network connectivity. These devices are intended to gather and exchange data with one another as well as with other systems through the internet, allowing them to be remotely monitored, controlled, and managed.
 
 While the Internet of Things has the potential to transform many parts of our lives, from healthcare to transportation to energy management, it also poses serious security risks. With so many connected devices sharing data over the internet, cyber thieves have multiple opportunity to attack system weaknesses, jeopardizing privacy, security, and even physical safety.
