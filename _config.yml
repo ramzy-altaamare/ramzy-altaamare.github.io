@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ITEC 443 Portfolio
+title: ITEC 442 Portfolio
 email: ramzy.rivera@yahoo.com
 author: Ramzy
 
