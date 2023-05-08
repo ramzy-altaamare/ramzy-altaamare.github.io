@@ -16,10 +16,13 @@ My portfolio project is about what I have taken in the Internet of things and cy
 ## What I have learned:
 ```
 I have learned how to:
-1- Know who ownes the network that is being used.
+1- Know who is in possession of the network that is being used.
 2- Where is the server located.
 3- IP adresses.
 4- How to flood a network.
+5- How to use markdown programming language.
+6- How to creat an E-portfolio.
+7- How to use GitHub.
 ```
 ## How will I be presenting my e-portfolio:
 
