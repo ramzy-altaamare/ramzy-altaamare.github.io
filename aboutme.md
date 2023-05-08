@@ -12,8 +12,9 @@ I am an Information Technology student in EMU.
 This currently is my final semester.
 
 My portfolio project is about what I have taken in the Internet of things and cyber security course (itec 442).
-```
+
 ## What I have learned:
+```
 I have learned how to:
 1- Know who ownes the network that is being used.
 2- Where is the server located.
