@@ -20,3 +20,5 @@ tags: [portfolio, intro, first]
 |          |Identify how an IoT solution might be used to help the company addres seach objective listed below.|
 |Increase customer loyalty|               |
 |                         |               |
+|Improve service maintenance and predictive maintenance|               |                               |
+
