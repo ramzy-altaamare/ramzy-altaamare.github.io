@@ -14,4 +14,5 @@ tags: [portfolio, intro, first]
             • Improve product design and technician training
             • Improve uptime and field service efficiency
             • Allocate scarce service technicians more efficiently
-            • Communicate more effectively with suppliers|```
+            • Communicate more effectively with suppliers|
+```
