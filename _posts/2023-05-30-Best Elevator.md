@@ -16,6 +16,7 @@ tags: [portfolio, intro, first]
 |          |• Improve uptime and field service efficiency|
 |          |• Allocate scarce service technicians more efficiently|
 |          |• Communicate more effectively with suppliers|
+|          |                           |
 |          |Identify how an IoT solution might be used to help the company addres seach objective listed below.|
 |Increase customer loyalty|               |
 |                         |               |
