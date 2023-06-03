@@ -17,7 +17,7 @@ tags: [portfolio, intro, first]
 |          |• Allocate scarce service technicians more efficiently|
 |          |• Communicate more effectively with suppliers|
 |                         |               |
-|          |Identify how an IoT solution might be used to help the company addres seach objective listed below.|
+|                         |Identify how an IoT solution might be used to help the company addres seach objective listed below.|
 |Increase customer loyalty|               |
 |                         |               |
 |Improve service maintenance and predictive maintenance|               |                            |
