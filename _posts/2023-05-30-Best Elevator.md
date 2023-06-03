@@ -8,11 +8,11 @@ tags: [portfolio, intro, first]
 
 |Project	|Best Elevator|	
 |:-----------|:-----------|
-|Objectives|```• Increase customer loyalty
-            • Improve service maintenance and predictive maintenance
+|Objectives|• Increase customer loyalty
+|          |• Improve service maintenance and predictive maintenance
             • Manage spare parts inventory more efficiently
             • Improve product design and technician training
             • Improve uptime and field service efficiency
             • Allocate scarce service technicians more efficiently
             • Communicate more effectively with suppliers|
-```
+
