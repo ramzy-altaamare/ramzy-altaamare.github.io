@@ -19,6 +19,7 @@ tags: [portfolio, intro, first]
 |                         |• Communicate more effectively with suppliers|
 |                         |               |
 |                         |Identify how an IoT solution might be used to help the company addres seach objective listed below.                                                             |
+|                         |               |
 |Increase customer loyalty|               |
 |                         |• Use IoT-capable sensors in elevators to track performance and spot problems immediately.                                                                      |
 |                         |• Reduce elevator downtime and anticipate maintenance requirements to increase customer loyalty and satisfaction.                                               |
