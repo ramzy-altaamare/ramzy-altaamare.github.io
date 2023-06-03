@@ -6,8 +6,8 @@ categories: portfolio
 tags: [portfolio, intro, first]
 ---
 
-|Project	|Best Elevator|	
-|:-----------|:-----------|
+|Project	|Best Elevator	
+|:-----------|:-----------
 |                         |                           |
 |Objectives               |
 |                         |• Increase customer loyalty|
@@ -21,7 +21,7 @@ tags: [portfolio, intro, first]
 |                         |Identify how an IoT solution might be used to help the company addres seach objective listed below.                                                             |
 |                         |               |
 |Increase customer loyalty|               |
-|                         |• Use IoT-capable sensors in elevators to track performance and spot problems immediately.                                                                      
+|                         |• Use IoT-capable sensors in elevators to track performance and spot problems immediately.                                                                      | 
 |                         |• Reduce elevator downtime and anticipate maintenance requirements to increase customer loyalty and satisfaction.                                               |
 |                         |               |
 |Improve service maintenance and predictive maintenance|               |        |
