@@ -25,10 +25,9 @@ tags: [portfolio, intro, first]
 |Manage spare parts inventory more efficiently|            |                    |
 |                         |               |
 |Improve product design and technician training|           |                    |
-
 |                         |               |
 |Improve uptime and field service efficiency|               |                    |
 |                         |               |
-|Allocate scarce service technicians more efficiently       |                    |
+|Allocate scarce service technicians more efficiently|       |                    |
 |                         |               |
-|Communicate more effectively with suppliers                |                    |
+|Communicate more effectively with suppliers|                |                    |
