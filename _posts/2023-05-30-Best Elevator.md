@@ -6,8 +6,8 @@ categories: portfolio
 tags: [portfolio, intro, first]
 ---
 
-|Project	|Best Elevator	
-|:-----------|:-----------
+|Project	|Best Elevator|	
+|:-----------|:-----------|
 |                         |                           |
 |Objectives               |
 |                         |• Increase customer loyalty|
