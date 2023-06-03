@@ -16,5 +16,5 @@ tags: [portfolio, intro, first]
 |          |• Allocate scarce service technicians more efficiently|
 |          |• Communicate more effectively with suppliers|
 |          |Identify how an IoT solution might be used to help the company address
-            each objective listed below.|
+           |each objective listed below.|
 
