@@ -27,7 +27,7 @@ tags: [portfolio, intro, first]
 |                         |• Utilize machine learning techniques to analyze this data in order to find trends and forecast upkeep needs.                                                   |
 |                         |• By planning maintenance tasks in advance, you may minimize unexpected breakdowns and improve service maintenance.                                             |
 |                         |               |
-|Manage spare parts inventory more efficiently|            |                    
+|Manage spare parts inventory more efficiently|            |                    |                 
 |                         |• Real-time monitoring of the use and condition of elevator components is possible using IoT sensors.                                                           |
 |                         |• By using this information to automatically make orders for spare parts when they are running low or need to be replaced, you can improve inventory management.|
 |                         |• Reduce surplus inventory and avoid stockouts to save money and increase operational effectiveness.                                                            |
