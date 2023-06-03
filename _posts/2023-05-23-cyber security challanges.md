@@ -7,7 +7,7 @@ tags: [portfolio, intro, first]
 ---
 
 ## Cyber Security Challenges in Digital Economy
-Mario Spremić, Member, IAENG, Alen Šimunic
+(Mario Spremić, Member, IAENG, Alen Šimunic)
 
 
 In order to evaluate their cyber security procedures, a preliminary research study was undertaken on major Croatian firms connected to significant or vital national infrastructure (NI or CNI). The study's objectives were to examine the efficiency of control mechanisms in reducing cyber risks and to emphasize the importance of ongoing development, teamwork, and a pro-active approach to cybersecurity in order to successfully meet the changing threat landscape. A survey questionnaire and in-depth interviews with cyber security experts from nine chosen firms were part of the research approach.
