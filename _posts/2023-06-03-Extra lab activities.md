@@ -10,7 +10,7 @@ tags: [portfolio, intro, first]
 simple research
 
 ## Activity 2
-
+![datacamp certification](/assets/images/banners/lab1/1.png)
 ## Activity 3
 
 ## Activity 4
