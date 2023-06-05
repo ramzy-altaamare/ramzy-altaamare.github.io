@@ -20,9 +20,11 @@ I have learned how to:
 2- Where is the server located.
 3- IP adresses.
 4- How to flood a network.
-5- How to use markdown programming language.
-6- How to creat an E-portfolio.
-7- How to use GitHub.
+5- How to use GitHub.
+6- How to use markdown programming language.
+7- How to creat an E-portfolio.
+8- How to use normal house-hold electronic parts such as a Playstation controller gear and remap its use for something else.
+9- Cyber Security challanges and how to solve alot of them.
 ```
 ## How will I be presenting my E-portfolio:
 
