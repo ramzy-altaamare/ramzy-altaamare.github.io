@@ -38,17 +38,27 @@ I couldnt really find the "Reconnaissance" file so i continued the activity with
 ![datacamp certification](/assets/images/banners/lab-activities/3.2.png)
 
 ## Activity 4 : Assessing the impact of malware.
+
 I did the same as what wasasked from us in downloading the malware and it worked.
 
 I tried downloading the malware the first time.
+
 ![datacamp certification](/assets/images/banners/lab-activities/4.0.png)
+
 Here i allowed the threat to be downloaded in my PC.
+
 ![datacamp certification](/assets/images/banners/lab-activities/4.1.png)
+
 I tried to open it.
+
 ![datacamp certification](/assets/images/banners/lab-activities/4.2.png)
+
 Was able to unblock it and run it.
+
 ![datacamp certification](/assets/images/banners/lab-activities/4.3.png)
+
 Summary.
+
 ![datacamp certification](/assets/images/banners/lab-activities/4.4.png)
 
 ## Activity 5 : Analysing Protocols with Wireshark.
@@ -69,9 +79,13 @@ Summary.
 
 ## Activity 7 : Running the Scanning Tools.
 
+Chrome did not allow me to download it.
+
 ![datacamp certification](/assets/images/banners/lab-activities/7.0.png)
 
 ## Activity 8 : Exploiting a Website Using SQL Injection.
+
+As you can see i was unavle to connect and find the webpage. 
 
 ![datacamp certification](/assets/images/banners/lab-activities/8.0.png)
 
