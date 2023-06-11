@@ -14,7 +14,7 @@ First we excecute the command "service postgresql start" to run the postgres dat
 Second we excecute the command "msfdb innit" to initialize the database.
 Third we excecute the command "msfconsole search -h" to display the search command options.
 Fourth we excecute the command "msfconsole search CVE-2013-2465" to search the common 
-Vulnerabilities and aExposures for a particular vulnerability in the windows version of java.
+Vulnerabilities and Exposures for a particular vulnerability in the windows version of java.
 ```
 ![datacamp certification](/assets/images/banners/lab-activities/2.0.png)
 
