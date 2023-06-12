@@ -17,11 +17,11 @@ IoT poses a number of significant cybersecurity risks, including:
 
 2- Transmission of unencrypted data: When data is sent between IoT devices and other systems, there is a chance for interception and illegal access by bad actors.
 
-3- Software and firmware problems: IoT devices frequently include software or firmware faults that may be used by hackers to access or take control of the devices    without authorization.
+3- Software and firmware problems: IoT devices frequently include software or firmware faults that may be used by hackers to access or take control of the devices  without authorization.
 
-4- Lack of routine patches and updates: Many IoT devices are not made to receive routine patches or updates, leaving them vulnerable to newly discovered security    flaws and unable to take advantage of the most recent security improvements.
+4- Lack of routine patches and updates: Many IoT devices are not made to receive routine patches or updates, leaving them vulnerable to newly discovered security flaws and unable to take advantage of the most recent security improvements.
 
-5- Lack of standardization: There is a lack of uniformity in security measures due to the large diversity of IoT devices and protocols. Establishing and enforcing    standard security protocols throughout the whole IoT ecosystem is difficult due to this inconsistency.
+5- Lack of standardization: There is a lack of uniformity in security measures due to the large diversity of IoT devices and protocols. Establishing and enforcing standard security protocols throughout the whole IoT ecosystem is difficult due to this inconsistency.
 ```
 Strong security practices and standards must be implemented in order to address these cybersecurity dangers. To stop unwanted access to IoT devices, strong passwords and authentication mechanisms should be used. To ensure that data is kept private and safe while being sent, encryption should be used. For IoT devices, regular software updates and patches should be made accessible and encouraged, enabling them to fix newly identified vulnerabilities and bolster their security measures.
 
