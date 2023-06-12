@@ -7,7 +7,26 @@ tags: [portfolio, intro, first]
 ---
 
 ## Activity 1 : Consulting a vulnerability database.
-simple research
+
+There are various reliable sites that offer thorough information on security flaws and risks when it comes to consulting a vulnerability database. These databases are useful tools for businesses and people who want to remain up to date on the most recent security concerns and take the required precautions to safeguard their networks and systems.
+
+You can review the following well-known vulnerability databases:
+
+```
+1- The National Institute of Standards and Technology (NIST) is in charge of maintaining the National Vulnerability Database (NVD), which is financed by the American government. It offers a thorough list of all known vulnerabilities and accompanying data, such as severity rankings, impacted software and hardware, and mitigation advice.
+
+2- Common Vulnerabilities and Exposures (CVE): The CVE database serves as a global repository for information security flaws that are known to the public. A unique identification (CVE ID) is given to each vulnerability mentioned in the CVE database, which also includes pertinent information about the vulnerability, impacted products, and available fixes or workarounds.
+
+3- The Open Source Vulnerability Database (OSVDB) is a community-driven, openly available vulnerability database that primarily focuses on flaws in open-source software. It offers comprehensive details about vulnerabilities, including descriptions, versions that are impacted, and connections to pertinent warnings or fixes.
+
+4- Exploit Database (Exploit-DB): The Exploit-DB is a well-known database for vulnerabilities and exploits in software. It contains a number of exploit programs, proof-of-concept examples, and information about relevant vulnerabilities. For penetration testers and security researchers, this database is especially helpful.
+
+5- The Common Vulnerability Scoring System (CVSS) is a standardized method for evaluating and rating the seriousness of vulnerabilities, while not being a vulnerability database in and of itself. Each vulnerability is given a grade based on its significance, potential for abuse, and other considerations. In order to assist businesses prioritize and address vulnerabilities efficiently, CVSS ratings are frequently used as a reference in vulnerability databases and advisories.
+
+```
+It is crucial to carefully consider the data presented while using these vulnerability databases, including the severity rankings, the impacted systems, and the available fixes or mitigations. Due to the constant discovery and documentation of new vulnerabilities, it is advised to frequently monitor these databases. You may dramatically improve the security of your systems and networks by keeping up with the most recent vulnerabilities and implementing the necessary precautions.
+
+
 ## Activity 2 : Metasploit Framework.
 ```
 First we excecute the command "service postgresql start" to run the postgres database.
